@@ -9,22 +9,22 @@ Each letter in ```magazine``` can only be used once in ```ransomNote```.
 **Example 1:**
 
 <pre>
-<strong>Input:</strong> ransomNote = "a", magazine = "b"<br>
+<strong>Input:</strong> ransomNote = "a", magazine = "b"
 <strong>Output:</strong> false
 </pre>
 
 **Example 2:**
 
 <pre>
-**Input**: ransomNote = "aa", magazine = "ab"
-**Output:** false
+<strong>Input:</strong> ransomNote = "aa", magazine = "ab"
+<strong>Output:</strong> false
 </pre>
 
 **Example 3:**
 
 <pre>
-**Input:** ransomNote = "aa", magazine = "aab"
-**Output:** true
+<strong>Input:</strong> ransomNote = "aa", magazine = "aab"
+<strong>Output:</strong> true
 </pre>
 
 **Constraints:**
