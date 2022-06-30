@@ -29,5 +29,5 @@ Each letter in ```magazine``` can only be used once in ```ransomNote```.
 
 **Constraints:**
 
-- ```1 <= ransomNote.length, magazine.length <= 10<sup>5</sup>```
+- ```1 <= ransomNote.length, magazine.length <= 10^5```
 - ```ransomNote``` and ```magazine``` consist of lowercase English letters.
