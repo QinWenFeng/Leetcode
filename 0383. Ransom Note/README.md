@@ -8,10 +8,10 @@ Each letter in ```magazine``` can only be used once in ```ransomNote```.
 
 **Example 1:**
 
-```
-**Input:** ransomNote = "a", magazine = "b"
-**Output:** false
-```
+<pre>
+<strong>Input:</strong> ransomNote = "a", magazine = "b"<br>
+<strong>Output:</strong> false
+</pre>
 
 **Example 2:**
 
