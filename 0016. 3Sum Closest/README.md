@@ -27,4 +27,4 @@ You may assume that each input would have exactly one solution.
 
 - ```3 <= nums.length <= 1000```
 - ```-1000 <= nums[i] <= 1000```
-- -10^4 <= target <= 10<sup>4</sup>
+- ```-10^4 <= target <= 10<sup>4</sup>```
